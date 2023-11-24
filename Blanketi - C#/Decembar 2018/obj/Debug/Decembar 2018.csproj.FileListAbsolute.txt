@@ -1,0 +1,7 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\bin\Debug\Decembar 2018.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\bin\Debug\Decembar 2018.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\bin\Debug\Decembar 2018.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\obj\Debug\Decembar 2018.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\obj\Debug\Decembar 2018.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\obj\Debug\Decembar 2018.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Programski jezici\Blanketi\Decembar 2018\obj\Debug\Decembar 2018.pdb
